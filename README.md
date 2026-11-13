@@ -1,5 +1,5 @@
 # Tugas 5 – Sistem Pakar Gangguan WiFi di Rumah
-a
+
 **Nama:ZUNNUN QORINA** 
 **NIM: F1D02410030** 
 
